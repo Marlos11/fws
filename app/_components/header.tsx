@@ -8,7 +8,7 @@ const Header = () => {
       <Button
         size="icon"
         variant="outline"
-        className="border-none bg-transparent"
+        className="border-none bg-transparent "
       >
         <MenuIcon />
       </Button>
